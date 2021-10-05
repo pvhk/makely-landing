@@ -23,10 +23,10 @@ const Hero = () => (
         title={
           <>
             {'The perfect website builder for\n'}
-            <span className="text-primary-500">Freelancers</span>
+            <span className="text-primary-500">Freelances</span>
           </>
         }
-        description="The easiest and fastest way to build your freelancers website within 5 minutes, all inclusive."
+        description="The easiest and fastest way to build your freelance website within 5 minutes, all inclusive."
         button={
             <a target="_blank" href="https://tally.so/r/nrVy5n">
               <Button xl>Sign in to private beta</Button>

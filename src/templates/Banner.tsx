@@ -7,7 +7,7 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="All you need for your freelancer website"
+      title="All you need for your freelance website"
       subtitle="Join the private beta for free."
       button={
         <Link href="https://tally.so/r/nrVy5n">
