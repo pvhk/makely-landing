@@ -26,7 +26,7 @@ const Hero = () => (
             <span className="text-primary-500">Freelances</span>
           </>
         }
-        description="The easiest and fastest way to build your freelance website within 5 minutes, all inclusive."
+        description="The easiest and fastest way to build your freelance website (including blog, portfolio and contact system) within 5 minutes, without code."
         button={
             <a target="_blank" href="https://tally.so/r/nrVy5n">
               <Button xl>Sign in to private beta</Button>

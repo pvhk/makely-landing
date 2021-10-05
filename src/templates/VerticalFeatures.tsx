@@ -7,8 +7,8 @@ const VerticalFeatures = () => (
     description="Use Makely to create and maintain your website, so you can focus on your clients and doing what you are good for."
   >
     <VerticalFeatureRow
-      title="Your website within 5 minutes"
-      description="Our super powerful website builder allow you to create your website within 5 minutes, everything is pre-configured and optimized for a freelance."
+      title="Create your website within 5 minutes and get online presence"
+      description="Our super powerful website builder allow you to create your website within 5 minutes, everything is pre-configured and optimized. You also can use a custom domain !"
       image="/assets/images/feature.svg"
       imageAlt="First feature alt text"
     />
